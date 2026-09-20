@@ -1,6 +1,6 @@
 # Pong
 
-**[▶ Play in browser](https://hangyulkimmy.github.io/pong/)**
+**[Play in browser](https://hangyulkimmy.github.io/pong/)**
 
 Classic Pong, two paddles, one ball.
 
